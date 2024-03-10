@@ -1,0 +1,1 @@
+    // cout << home(n,d);
